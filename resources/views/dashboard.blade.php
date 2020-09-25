@@ -11,6 +11,7 @@
                 <!--                <x-jet-welcome />-->
                 <livewire:create-post/>
             </div>
+            <livewire:list-post/>
         </div>
     </div>
 </x-app-layout>
